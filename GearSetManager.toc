@@ -1,0 +1,6 @@
+## Interface: 11500
+## Title: GearSet Manager
+## Notes: Manage and switch gear sets easily.
+## Author: HELLFIRE
+## SavedVariablesPerCharacter: GearSetManagerDB
+GearSetManager.lua
